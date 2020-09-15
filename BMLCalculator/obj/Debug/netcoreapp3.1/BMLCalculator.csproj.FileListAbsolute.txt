@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\bin\Debug\netcoreapp3.1\BMLCalculator.exe
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\bin\Debug\netcoreapp3.1\BMLCalculator.deps.json
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\bin\Debug\netcoreapp3.1\BMLCalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\bin\Debug\netcoreapp3.1\BMLCalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\bin\Debug\netcoreapp3.1\BMLCalculator.dll
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\bin\Debug\netcoreapp3.1\BMLCalculator.pdb
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\obj\Debug\netcoreapp3.1\BMLCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\obj\Debug\netcoreapp3.1\BMLCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\obj\Debug\netcoreapp3.1\BMLCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\obj\Debug\netcoreapp3.1\BMLCalculator.dll
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\obj\Debug\netcoreapp3.1\BMLCalculator.pdb
+C:\Users\opilane\source\repos\BMLCalculator\BMLCalculator\obj\Debug\netcoreapp3.1\BMLCalculator.genruntimeconfig.cache

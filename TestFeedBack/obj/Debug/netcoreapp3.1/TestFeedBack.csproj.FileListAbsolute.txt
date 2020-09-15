@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\bin\Debug\netcoreapp3.1\TestFeedBack.exe
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\bin\Debug\netcoreapp3.1\TestFeedBack.deps.json
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\bin\Debug\netcoreapp3.1\TestFeedBack.runtimeconfig.json
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\bin\Debug\netcoreapp3.1\TestFeedBack.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\bin\Debug\netcoreapp3.1\TestFeedBack.dll
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\bin\Debug\netcoreapp3.1\TestFeedBack.pdb
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\obj\Debug\netcoreapp3.1\TestFeedBack.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\obj\Debug\netcoreapp3.1\TestFeedBack.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\obj\Debug\netcoreapp3.1\TestFeedBack.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\obj\Debug\netcoreapp3.1\TestFeedBack.dll
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\obj\Debug\netcoreapp3.1\TestFeedBack.pdb
+C:\Users\opilane\source\repos\BMLCalculator\TestFeedBack\obj\Debug\netcoreapp3.1\TestFeedBack.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\BMLCalculator\MonthYearCalculator\obj\Debug\netcoreapp3.1\MonthYearCalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BMLCalculator\MonthYearCalculator\obj\Debug\netcoreapp3.1\MonthYearCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BMLCalculator\MonthYearCalculator\obj\Debug\netcoreapp3.1\MonthYearCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BMLCalculator\MonthYearCalculator\obj\Debug\netcoreapp3.1\MonthYearCalculator.csproj.CoreCompileInputs.cache
